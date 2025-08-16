@@ -23,7 +23,7 @@ import pandas as pd
 # -----------------------------
 # Load CSV directly into Pandas
 # -----------------------------
-df = pd.read_csv('/content/part-00000-ee5a98fb-d9ed-470c-8bf2-7d25ea07ce72-c000.csv')
+df = pd.read_csv('https://github.com/Parimala-15/student_dashboard/blob/main/student_merged.csv')
 
 # -----------------------------
 # Initialize Dash app
